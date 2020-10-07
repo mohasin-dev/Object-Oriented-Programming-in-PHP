@@ -4,7 +4,8 @@
 // An abstrct class is never be instantiate
 // Abstract method has no code but signature & there is no implementation, that's be main diffirence between abstact & concreate
 // Abstract method is a requirement or must inplement for sub class
-// Abstraction is a model of a real-world object or phenomenon, limited to a specific context, which represents all details relevant to this context with high accuracy and omits all the rest.
+// Abstraction is a model of a real-world object or phenomenon, limited to a specific context,
+// which represents all details relevant to this context with high accuracy and omits all the rest.
 
 abstract class AchievmentType
 {
